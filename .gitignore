@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+fake-news-env/
+env/
+venv/
+
+# Database
+*.db
+*.sqlite3
+
+# Others
+*.pkl
+*.zip
+*.csv
+*.tsv
+
+# VSCode
+.vscode/
